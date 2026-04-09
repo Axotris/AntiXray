@@ -1,0 +1,2 @@
+execute in axotris.ax:overworld run clone ~-16 ~-16 ~-16 ~16 ~16 ~16 to minecraft:overworld ~-16 ~-16 ~-16 filtered #axotris.ax:replace
+execute in axotris.ax:overworld run fill ~-16 ~-16 ~-16 ~16 ~16 ~16 minecraft:diorite replace #axotris.ax:replace

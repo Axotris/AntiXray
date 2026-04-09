@@ -1,0 +1,2 @@
+execute as @e[type=marker,tag=axotris.ax.chunkloading] at @s in minecraft:overworld positioned ~-25 -100 ~-25 unless entity @p[dx=50,dy=1000,dz=50] run function axotris.ax:unload
+schedule function axotris.ax:second 1s

@@ -7,3 +7,4 @@ This is a Minecraft 1.21.11 Datapack which provides AntiXray. It is in early dev
 - multi ore support
 - multi dimension support
 - structure support
+- anti seed cracking

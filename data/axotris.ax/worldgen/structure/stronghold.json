@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stronghold",
+  "biomes": "#axotris.ax:has_structure/stronghold",
+  "spawn_overrides": {},
+  "step": "surface_structures",
+  "terrain_adaptation": "bury"
+}

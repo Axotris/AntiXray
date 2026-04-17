@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#axotris.ax:is_badlands",
+    "#axotris.ax:is_hill",
+    "axotris.ax:savanna_plateau",
+    "axotris.ax:windswept_savanna",
+    "axotris.ax:stony_shore",
+    "#axotris.ax:is_mountain"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "values": [
+    "#axotris.ax:is_beach",
+    "#axotris.ax:is_river",
+    "#axotris.ax:is_taiga",
+    "#axotris.ax:is_forest",
+    "axotris.ax:mushroom_fields",
+    "axotris.ax:ice_spikes",
+    "axotris.ax:dripstone_caves",
+    "axotris.ax:lush_caves",
+    "axotris.ax:savanna",
+    "axotris.ax:snowy_plains",
+    "axotris.ax:plains",
+    "axotris.ax:sunflower_plains"
+  ]
+}

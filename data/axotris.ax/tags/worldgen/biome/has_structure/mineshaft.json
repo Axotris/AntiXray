@@ -1,0 +1,26 @@
+{
+  "values": [
+    "#axotris.ax:is_ocean",
+    "#axotris.ax:is_river",
+    "#axotris.ax:is_beach",
+    "#axotris.ax:is_mountain",
+    "#axotris.ax:is_hill",
+    "#axotris.ax:is_taiga",
+    "#axotris.ax:is_jungle",
+    "#axotris.ax:is_forest",
+    "axotris.ax:stony_shore",
+    "axotris.ax:mushroom_fields",
+    "axotris.ax:ice_spikes",
+    "axotris.ax:windswept_savanna",
+    "axotris.ax:desert",
+    "axotris.ax:savanna",
+    "axotris.ax:snowy_plains",
+    "axotris.ax:plains",
+    "axotris.ax:sunflower_plains",
+    "axotris.ax:swamp",
+    "axotris.ax:mangrove_swamp",
+    "axotris.ax:savanna_plateau",
+    "axotris.ax:dripstone_caves",
+    "axotris.ax:lush_caves"
+  ]
+}

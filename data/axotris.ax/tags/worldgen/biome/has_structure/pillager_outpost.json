@@ -1,0 +1,11 @@
+{
+  "values": [
+    "axotris.ax:desert",
+    "axotris.ax:plains",
+    "axotris.ax:savanna",
+    "axotris.ax:snowy_plains",
+    "axotris.ax:taiga",
+    "#axotris.ax:is_mountain",
+    "axotris.ax:grove"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "values": [
+    "axotris.ax:desert",
+    "axotris.ax:warm_ocean",
+    "#axotris.ax:is_jungle",
+    "#axotris.ax:is_savanna",
+    "#axotris.ax:is_nether",
+    "#axotris.ax:is_badlands",
+    "axotris.ax:mangrove_swamp"
+  ]
+}

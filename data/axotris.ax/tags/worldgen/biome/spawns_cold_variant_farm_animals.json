@@ -1,0 +1,26 @@
+{
+  "values": [
+    "axotris.ax:snowy_plains",
+    "axotris.ax:ice_spikes",
+    "axotris.ax:frozen_peaks",
+    "axotris.ax:jagged_peaks",
+    "axotris.ax:snowy_slopes",
+    "axotris.ax:frozen_ocean",
+    "axotris.ax:deep_frozen_ocean",
+    "axotris.ax:grove",
+    "axotris.ax:deep_dark",
+    "axotris.ax:frozen_river",
+    "axotris.ax:snowy_taiga",
+    "axotris.ax:snowy_beach",
+    "#axotris.ax:is_end",
+    "axotris.ax:cold_ocean",
+    "axotris.ax:deep_cold_ocean",
+    "axotris.ax:old_growth_pine_taiga",
+    "axotris.ax:old_growth_spruce_taiga",
+    "axotris.ax:taiga",
+    "axotris.ax:windswept_forest",
+    "axotris.ax:windswept_gravelly_hills",
+    "axotris.ax:windswept_hills",
+    "axotris.ax:stony_peaks"
+  ]
+}

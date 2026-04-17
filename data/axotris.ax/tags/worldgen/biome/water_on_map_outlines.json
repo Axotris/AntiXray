@@ -1,0 +1,8 @@
+{
+  "values": [
+    "#axotris.ax:is_ocean",
+    "#axotris.ax:is_river",
+    "axotris.ax:swamp",
+    "axotris.ax:mangrove_swamp"
+  ]
+}

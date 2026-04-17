@@ -6,7 +6,6 @@ This is a Minecraft 1.21.11 Datapack which provides AntiXray. It is in early dev
     -> possible solution is changing the fake ore generation from feature based to structure based
 
 # TODO
-
 - a lot of optimisations
 - multi ore support
 - multi dimension support
